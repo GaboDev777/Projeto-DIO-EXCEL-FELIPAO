@@ -1,9 +1,11 @@
 # Projeto-DIO-EXCEL-FELIPAO
 
-Título do projeto: SIMULADOR DE INVESTIMENTOS IMOBILIARIOS "Philli's Investiment Real Estate" em honor ao professor Felipe da DIO ![Captura de tela 2025-05-30 055927](https://github.com/user-attachments/assets/c5000293-89fa-4b94-a6f8-c189bfad0165)
-![Captura de tela 2025-05-30 055831](https://github.com/user-attachments/assets/aa9e75b9-298c-4417-abbb-dfd8814fa56f)
-![Captura de tela 2025-05-30 055813](https://github.com/user-attachments/assets/fcfa8be0-9ed0-4363-aff5-15b311f2ac9d)
-![Captura de tela 2025-05-30 055755](https://github.com/user-attachments/assets/fe191b69-3e14-4e8e-87d5-f09ffd34ad9b)
+Título do projeto: SIMULADOR DE INVESTIMENTOS IMOBILIARIOS "Philli's Investiment Real Estate" em honor ao professor Felipe da DIO![4](https://github.com/user-attachments/assets/fa87d872-0cbf-4339-bfca-49ce1e44ef6d)
+![3](https://github.com/user-attachments/assets/9d3f751e-a77d-4a45-a520-55db68080ec2)
+![2](https://github.com/user-attachments/assets/0acd5417-e18a-4756-a07b-f571b6e1d325)
+![1](https://github.com/user-attachments/assets/8aa5f687-fe0e-4302-8af4-703426ea853f)
+
+
 
 
 Descrição do projeto: Ferramenta de simulação de investimentos na area imobiliaria que serve para ter uma sugestão exata de investimentos segundo o salario do investidor
